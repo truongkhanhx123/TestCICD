@@ -21,9 +21,17 @@ jobs:
         with:
           dotnet-version: '8.x'
 
-      - name: Build
-        run: dotnet build 
+      - name: Build testbook
+        run: dotnet build testbook 
       
+      - name: Build BookData
+        run: dotnet build BookData
+         
+      - name: Build BookApplicationApi
+        run: dotnet build BookApplicationApi
+        
+      - name: Test
+        run: dotnet test
 
   deploy:
     runs-on: windows-latest
