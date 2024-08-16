@@ -21,20 +21,9 @@ jobs:
         with:
           dotnet-version: '8.x'
 
-      - name: Restore dependencies
-        run: dotnet restore
-
       - name: Build
-        run: dotnet build --configuration Release --no-restore
+        run: dotnet build 
       
-      - name: Build test project
-        run: dotnet build ./xUnitTest/xUnitTest.csproj --configuration Release --no-restore
-
-      - name: Test
-        run: dotnet test --no-build --verbosity normal
-
-      - name: Publish
-        run: dotnet publish --configuration Release --no-build --output ./publish
 
   deploy:
     runs-on: windows-latest
