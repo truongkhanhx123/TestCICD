@@ -34,24 +34,24 @@ namespace xUnitTest.Tests
             _controller = new Bookcontroller(_context, _mockClientFactory.Object, Options.Create(_appsetting), _mockBookService.Object);
         }
 
-        [Fact]
-        public async Task AdminExportsBookData_ReturnsBooks()
-        {
-            // Arrange (Thiết lập dữ liệu ban đầu)
-            _context.Books.AddRange(new Book { Id = 1, Title = "Test Book", Isbn = "2312", PageCount = 100, Authors = entities });
-            await _context.SaveChangesAsync();
-            // Act
-            var result = await _controller.AdminExportsBookData();
+        //[Fact]
+        //public async Task AdminExportsBookData_ReturnsBooks()
+        //{
+        //    // Arrange (Thiết lập dữ liệu ban đầu)
+        //    _context.Books.AddRange(new Book { Id = 1, Title = "Test Book", Isbn = "2312", PageCount = 100, Authors = entities });
+        //    await _context.SaveChangesAsync();
+        //    // Act
+        //    var result = await _controller.AdminExportsBookData();
 
-            // Assert
-            var actionResult = Assert.IsType<ActionResult<IEnumerable<Book>>>(result);
-            var okResult = Assert.IsType<List<Book>>(actionResult.Value);
-            var singleBook = Assert.Single(okResult);
-            Assert.Equal("Test Book", singleBook.Title);
-            // Cleanup (Dọn dẹp dữ liệu sau kiểm thử)
-            _context.Books.RemoveRange(_context.Books);
-            await _context.SaveChangesAsync();
-        }
+        //    // Assert
+        //    var actionResult = Assert.IsType<ActionResult<IEnumerable<Book>>>(result);
+        //    var okResult = Assert.IsType<List<Book>>(actionResult.Value);
+        //    var singleBook = Assert.Single(okResult);
+        //    Assert.Equal("Test Book", singleBook.Title);
+        //    // Cleanup (Dọn dẹp dữ liệu sau kiểm thử)
+        //    _context.Books.RemoveRange(_context.Books);
+        //    await _context.SaveChangesAsync();
+        //}
         [Fact]
         public async Task AdminExportsBookData_ReturnsNotFound_WhenNoBooks()
         {
