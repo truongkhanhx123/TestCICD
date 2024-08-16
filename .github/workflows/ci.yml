@@ -23,12 +23,6 @@ jobs:
 
       - name: Build testbook
         run: dotnet build testbook 
-      
-      - name: Build BookData
-        run: dotnet build BookData
-         
-      - name: Build BookApplicationApi
-        run: dotnet build BookApplicationApi
         
       - name: Test
         run: dotnet test
