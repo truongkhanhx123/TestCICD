@@ -1,0 +1,24 @@
+﻿version: '3.8'
+
+services:
+  postgres:
+    image: postgres:15
+    container_name: postgres
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: danghi
+      POSTGRES_DB: NhaSach
+    ports:
+      - "1807:5432"
+
+  webapi:
+    build:
+      context: ../
+      dockerfile: testbook/Dockerfile
+    container_name: webapi
+    depends_on:
+      - postgres
+    ports:
+      - "8000:8080"
+    environment:
+      - ConnectionStrings__DefaultConnection=Host=host.docker.internal;Port=5432;Database=NhaSach;Username=postgres;Password=danghi

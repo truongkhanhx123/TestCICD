@@ -1,0 +1,6 @@
+﻿{
+  "AllowedHosts": "*",
+  "ConnectionStrings": {
+    "DefaultConnection": "Host=host.docker.internal;Port=1807;Database=NhaSach;Username=postgres;Password=danghi"
+  },
+}

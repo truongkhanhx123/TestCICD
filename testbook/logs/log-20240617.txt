@@ -1,0 +1,35 @@
+2024-06-17 10:58:35.898 +07:00 [INF] Basic Aunthentication is requested
+2024-06-17 10:58:48.090 +07:00 [INF] Basic Aunthentication is requested
+2024-06-17 10:58:48.092 +07:00 [INF] Basic Authentication Successful, Access the Swagger testbook
+2024-06-17 10:58:58.203 +07:00 [INF] Received login request for account: string
+2024-06-17 10:58:59.886 +07:00 [WRN] Login request failed: Account 'string' does not exist
+2024-06-17 10:59:01.466 +07:00 [INF] Received login request for account: string
+2024-06-17 10:59:01.490 +07:00 [WRN] Login request failed: Account 'string' does not exist
+2024-06-17 10:59:02.023 +07:00 [INF] Received login request for account: string
+2024-06-17 10:59:02.083 +07:00 [WRN] Login request failed: Account 'string' does not exist
+2024-06-17 10:59:02.425 +07:00 [WRN] This user has logged in 3 times exceeding the allowed limit and is allowed to log in again after 20 seconds.
+2024-06-17 10:59:03.103 +07:00 [WRN] This user has logged in 3 times exceeding the allowed limit and is allowed to log in again after 20 seconds.
+2024-06-17 10:59:03.639 +07:00 [WRN] This user has logged in 3 times exceeding the allowed limit and is allowed to log in again after 20 seconds.
+2024-06-17 10:59:04.419 +07:00 [WRN] This user has logged in 3 times exceeding the allowed limit and is allowed to log in again after 20 seconds.
+2024-06-17 10:59:31.146 +07:00 [INF] Basic Aunthentication is requested
+2024-06-17 10:59:31.183 +07:00 [INF] Basic Authentication Successful, Access the Swagger testbook
+2024-06-17 11:51:19.621 +07:00 [INF] Basic Aunthentication is requested
+2024-06-17 11:51:19.676 +07:00 [INF] Basic Authentication Successful, Access the Swagger testbook
+2024-06-17 11:52:59.046 +07:00 [INF] Basic Aunthentication is requested
+2024-06-17 11:52:59.086 +07:00 [INF] Basic Authentication Successful, Access the Swagger testbook
+2024-06-17 11:54:22.734 +07:00 [INF] Basic Aunthentication is requested
+2024-06-17 11:54:22.785 +07:00 [INF] Basic Authentication Successful, Access the Swagger testbook
+2024-06-17 11:55:16.653 +07:00 [INF] Basic Aunthentication is requested
+2024-06-17 11:55:16.691 +07:00 [INF] Basic Authentication Successful, Access the Swagger testbook
+2024-06-17 11:56:29.733 +07:00 [INF] Basic Aunthentication is requested
+2024-06-17 11:56:29.774 +07:00 [INF] Basic Authentication Successful, Access the Swagger testbook
+2024-06-17 15:48:44.529 +07:00 [INF] Basic Aunthentication is requested
+2024-06-17 15:48:44.570 +07:00 [INF] Basic Authentication Successful, Access the Swagger testbook
+2024-06-17 15:51:08.936 +07:00 [INF] Basic Aunthentication is requested
+2024-06-17 15:51:09.008 +07:00 [INF] Basic Authentication Successful, Access the Swagger testbook
+2024-06-17 16:18:32.050 +07:00 [INF] Basic Aunthentication is requested
+2024-06-17 16:18:32.085 +07:00 [INF] Basic Authentication Successful, Access the Swagger testbook
+2024-06-17 16:25:44.909 +07:00 [INF] Basic Aunthentication is requested
+2024-06-17 16:25:44.979 +07:00 [INF] Basic Authentication Successful, Access the Swagger testbook
+2024-06-17 16:28:01.114 +07:00 [INF] Basic Aunthentication is requested
+2024-06-17 16:28:01.154 +07:00 [INF] Basic Authentication Successful, Access the Swagger testbook

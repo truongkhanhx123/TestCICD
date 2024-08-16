@@ -1,0 +1,22 @@
+2024-07-31 14:31:21.746 +07:00 [INF] Basic Aunthentication is requested
+2024-07-31 14:31:30.480 +07:00 [INF] Basic Aunthentication is requested
+2024-07-31 14:31:30.482 +07:00 [INF] Basic Authentication Successful, Access the Swagger testbook
+2024-07-31 14:31:43.260 +07:00 [INF] Basic Aunthentication is requested
+2024-07-31 14:31:43.314 +07:00 [INF] Basic Authentication Successful, Access the Swagger testbook
+2024-07-31 14:31:53.727 +07:00 [INF] Basic Aunthentication is requested
+2024-07-31 14:33:01.474 +07:00 [INF] Basic Aunthentication is requested
+2024-07-31 14:33:01.509 +07:00 [INF] Basic Authentication Successful, Access the Swagger testbook
+2024-07-31 14:33:11.944 +07:00 [INF] Basic Aunthentication is requested
+2024-07-31 14:33:11.981 +07:00 [INF] Basic Authentication Successful, Access the Swagger testbook
+2024-07-31 15:35:48.939 +07:00 [INF] Basic Aunthentication is requested
+2024-07-31 15:35:48.995 +07:00 [INF] Basic Authentication Successful, Access the Swagger testbook
+2024-07-31 16:13:42.100 +07:00 [INF] Basic Aunthentication is requested
+2024-07-31 16:13:42.135 +07:00 [INF] Basic Authentication Successful, Access the Swagger testbook
+2024-07-31 16:15:37.200 +07:00 [INF] Basic Aunthentication is requested
+2024-07-31 16:15:37.243 +07:00 [INF] Basic Authentication Successful, Access the Swagger testbook
+2024-07-31 16:18:08.104 +07:00 [INF] Basic Aunthentication is requested
+2024-07-31 16:18:08.143 +07:00 [INF] Basic Authentication Successful, Access the Swagger testbook
+2024-07-31 16:18:13.756 +07:00 [INF] Received AdminExportsBookData request
+2024-07-31 16:18:13.758 +07:00 [INF] Export All Book Success
+2024-07-31 16:18:37.190 +07:00 [INF] AdminGetBookSaveDB is requested
+2024-07-31 16:18:38.512 +07:00 [INF] The data has been added to the database

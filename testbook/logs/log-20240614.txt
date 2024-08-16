@@ -1,0 +1,110 @@
+2024-06-14 10:21:21.194 +07:00 [INF] Basic Aunthentication is requested
+2024-06-14 10:21:21.275 +07:00 [WRN] Basic Authentication is incorrect
+2024-06-14 10:22:02.429 +07:00 [INF] Basic Aunthentication is requested
+2024-06-14 10:22:02.432 +07:00 [INF] Basic Authentication Successful, Access the Swagger testbook
+2024-06-14 10:22:55.920 +07:00 [INF] Basic Aunthentication is requested
+2024-06-14 10:22:55.962 +07:00 [WRN] Basic Authentication is incorrect
+2024-06-14 10:23:04.009 +07:00 [INF] Basic Aunthentication is requested
+2024-06-14 10:23:04.011 +07:00 [INF] Basic Authentication Successful, Access the Swagger testbook
+2024-06-14 10:29:58.472 +07:00 [INF] Basic Aunthentication is requested
+2024-06-14 10:29:58.508 +07:00 [INF] Basic Authentication Successful, Access the Swagger testbook
+2024-06-14 10:30:52.336 +07:00 [INF] Basic Aunthentication is requested
+2024-06-14 10:30:52.374 +07:00 [WRN] Basic Authentication is incorrect
+2024-06-14 10:30:59.040 +07:00 [INF] Basic Aunthentication is requested
+2024-06-14 10:30:59.042 +07:00 [INF] Basic Authentication Successful, Access the Swagger testbook
+2024-06-14 10:34:44.596 +07:00 [INF] Basic Aunthentication is requested
+2024-06-14 10:34:44.630 +07:00 [INF] Basic Authentication Successful, Access the Swagger testbook
+2024-06-14 10:36:01.054 +07:00 [INF] Basic Aunthentication is requested
+2024-06-14 10:36:01.095 +07:00 [INF] Basic Authentication Successful, Access the Swagger testbook
+2024-06-14 10:36:48.514 +07:00 [INF] Basic Aunthentication is requested
+2024-06-14 10:36:48.551 +07:00 [INF] Basic Authentication Successful, Access the Swagger testbook
+2024-06-14 10:37:06.135 +07:00 [INF] Basic Aunthentication is requested
+2024-06-14 10:37:06.169 +07:00 [INF] Basic Authentication Successful, Access the Swagger testbook
+2024-06-14 10:37:32.908 +07:00 [INF] Basic Aunthentication is requested
+2024-06-14 10:37:32.942 +07:00 [INF] Basic Authentication Successful, Access the Swagger testbook
+2024-06-14 10:37:42.189 +07:00 [INF] Received login request for account: string
+2024-06-14 10:37:43.493 +07:00 [WRN] Login request failed: Account 'string' does not exist
+2024-06-14 10:37:51.872 +07:00 [INF] Received login request for account: string
+2024-06-14 10:37:51.903 +07:00 [WRN] Login request failed: Account 'string' does not exist
+2024-06-14 10:37:53.166 +07:00 [INF] Received login request for account: string
+2024-06-14 10:37:53.224 +07:00 [WRN] Login request failed: Account 'string' does not exist
+2024-06-14 10:37:53.687 +07:00 [INF] This user has logged in 3 times exceeding the allowed limit and is allowed to log in again after 20 seconds.
+2024-06-14 10:37:54.538 +07:00 [INF] This user has logged in 3 times exceeding the allowed limit and is allowed to log in again after 20 seconds.
+2024-06-14 10:58:34.865 +07:00 [INF] Basic Aunthentication is requested
+2024-06-14 10:58:34.916 +07:00 [INF] Basic Authentication Successful, Access the Swagger testbook
+2024-06-14 10:58:41.871 +07:00 [INF] Received login request for account: string
+2024-06-14 10:58:42.928 +07:00 [WRN] Login request failed: Account 'string' does not exist
+2024-06-14 10:58:47.880 +07:00 [INF] Received login request for account: string
+2024-06-14 10:58:47.903 +07:00 [WRN] Login request failed: Account 'string' does not exist
+2024-06-14 11:04:02.026 +07:00 [INF] Basic Aunthentication is requested
+2024-06-14 11:04:02.065 +07:00 [INF] Basic Authentication Successful, Access the Swagger testbook
+2024-06-14 11:04:11.092 +07:00 [INF] Received login request for account: string
+2024-06-14 11:04:12.241 +07:00 [WRN] Login request failed: Account 'string' does not exist
+2024-06-14 11:04:14.086 +07:00 [INF] Received login request for account: string
+2024-06-14 11:04:14.116 +07:00 [WRN] Login request failed: Account 'string' does not exist
+2024-06-14 11:04:14.771 +07:00 [INF] Received login request for account: string
+2024-06-14 11:04:14.830 +07:00 [WRN] Login request failed: Account 'string' does not exist
+2024-06-14 14:39:20.361 +07:00 [INF] Basic Aunthentication is requested
+2024-06-14 14:39:20.412 +07:00 [INF] Basic Authentication Successful, Access the Swagger testbook
+2024-06-14 14:42:09.679 +07:00 [INF] Received login request for account: taothao
+2024-06-14 14:42:10.243 +07:00 [WRN] Login request failed: Incorrect password for account 'taothao'
+2024-06-14 14:42:16.165 +07:00 [INF] Received login request for account: taothao
+2024-06-14 14:42:16.516 +07:00 [WRN] Login request failed: Incorrect password for account 'taothao'
+2024-06-14 14:42:23.631 +07:00 [INF] Received login request for account: taothao
+2024-06-14 14:42:23.822 +07:00 [WRN] Login request failed: Incorrect password for account 'taothao'
+2024-06-14 14:42:28.469 +07:00 [INF] This user has logged in 3 times exceeding the allowed limit and is allowed to log in again after 20 seconds.
+2024-06-14 14:43:10.215 +07:00 [INF] Received login request for account: taothao
+2024-06-14 14:43:10.386 +07:00 [WRN] Login request failed: Incorrect password for account 'taothao'
+2024-06-14 14:43:17.972 +07:00 [INF] Received login request for account: taothao
+2024-06-14 14:43:18.151 +07:00 [WRN] Login request failed: Incorrect password for account 'taothao'
+2024-06-14 14:44:14.721 +07:00 [INF] Received login request for account: admin
+2024-06-14 14:44:14.994 +07:00 [INF] Received login request for account: admin
+2024-06-14 14:51:05.721 +07:00 [INF] Basic Aunthentication is requested
+2024-06-14 14:51:05.784 +07:00 [INF] Basic Authentication Successful, Access the Swagger testbook
+2024-06-14 14:51:23.751 +07:00 [INF] Received login request for account: admin
+2024-06-14 14:51:25.544 +07:00 [WRN] Login request failed: Incorrect password for account 'admin'
+2024-06-14 14:51:30.331 +07:00 [INF] Received login request for account: admin
+2024-06-14 14:51:30.677 +07:00 [WRN] Login request failed: Incorrect password for account 'admin'
+2024-06-14 14:51:50.598 +07:00 [INF] Received login request for account: admin
+2024-06-14 14:51:50.819 +07:00 [WRN] Login request failed: Incorrect password for account 'admin'
+2024-06-14 14:51:55.383 +07:00 [INF] Received login request for account: admin
+2024-06-14 14:51:55.633 +07:00 [INF] Received login request for account: admin
+2024-06-14 14:59:30.583 +07:00 [INF] Basic Aunthentication is requested
+2024-06-14 14:59:30.620 +07:00 [INF] Basic Authentication Successful, Access the Swagger testbook
+2024-06-14 15:01:58.951 +07:00 [INF] Basic Aunthentication is requested
+2024-06-14 15:01:58.984 +07:00 [INF] Basic Authentication Successful, Access the Swagger testbook
+2024-06-14 15:24:50.151 +07:00 [INF] Basic Aunthentication is requested
+2024-06-14 15:25:28.572 +07:00 [INF] Basic Aunthentication is requested
+2024-06-14 15:25:28.574 +07:00 [INF] Basic Authentication Successful, Access the Swagger testbook
+2024-06-14 15:36:57.191 +07:00 [INF] Basic Aunthentication is requested
+2024-06-14 15:36:57.236 +07:00 [INF] Basic Authentication Successful, Access the Swagger testbook
+2024-06-14 15:37:30.027 +07:00 [INF] AdminGetBookSaveDB is requested
+2024-06-14 15:37:33.511 +07:00 [INF] Retry attempt 1, waiting for 2 seconds
+2024-06-14 15:37:36.738 +07:00 [INF] Retry attempt 2, waiting for 4 seconds
+2024-06-14 15:37:41.944 +07:00 [INF] Retry attempt 3, waiting for 8 seconds
+2024-06-14 15:37:51.724 +07:00 [WRN] 404 Unable to get data from API
+2024-06-14 15:39:22.112 +07:00 [INF] Received login request for account: string
+2024-06-14 15:39:23.476 +07:00 [WRN] Login request failed: Account 'string' does not exist
+2024-06-14 15:39:25.055 +07:00 [INF] Received login request for account: string
+2024-06-14 15:39:25.082 +07:00 [WRN] Login request failed: Account 'string' does not exist
+2024-06-14 15:39:27.096 +07:00 [INF] Received login request for account: string
+2024-06-14 15:39:27.168 +07:00 [WRN] Login request failed: Account 'string' does not exist
+2024-06-14 15:39:27.541 +07:00 [INF] This user has logged in 3 times exceeding the allowed limit and is allowed to log in again after 20 seconds.
+2024-06-14 15:39:28.027 +07:00 [INF] This user has logged in 3 times exceeding the allowed limit and is allowed to log in again after 20 seconds.
+2024-06-14 15:39:28.731 +07:00 [INF] This user has logged in 3 times exceeding the allowed limit and is allowed to log in again after 20 seconds.
+2024-06-14 15:46:08.474 +07:00 [INF] Basic Aunthentication is requested
+2024-06-14 15:46:08.556 +07:00 [INF] Basic Authentication Successful, Access the Swagger testbook
+2024-06-14 15:46:34.876 +07:00 [INF] Received login request for account: string
+2024-06-14 15:46:36.273 +07:00 [WRN] Login request failed: Account 'string' does not exist
+2024-06-14 15:46:37.145 +07:00 [INF] Received login request for account: string
+2024-06-14 15:46:37.167 +07:00 [WRN] Login request failed: Account 'string' does not exist
+2024-06-14 15:46:37.361 +07:00 [INF] Received login request for account: string
+2024-06-14 15:46:37.436 +07:00 [WRN] Login request failed: Account 'string' does not exist
+2024-06-14 15:46:37.545 +07:00 [INF] This user has logged in 3 times exceeding the allowed limit and is allowed to log in again after 20 seconds.
+2024-06-14 15:46:37.732 +07:00 [INF] This user has logged in 3 times exceeding the allowed limit and is allowed to log in again after 20 seconds.
+2024-06-14 15:46:37.902 +07:00 [INF] This user has logged in 3 times exceeding the allowed limit and is allowed to log in again after 20 seconds.
+2024-06-14 15:46:38.062 +07:00 [INF] This user has logged in 3 times exceeding the allowed limit and is allowed to log in again after 20 seconds.
+2024-06-14 15:50:37.359 +07:00 [INF] Basic Aunthentication is requested
+2024-06-14 15:50:37.396 +07:00 [INF] Basic Authentication Successful, Access the Swagger testbook
+2024-06-14 15:52:31.909 +07:00 [INF] Basic Aunthentication is requested
+2024-06-14 15:52:31.949 +07:00 [INF] Basic Authentication Successful, Access the Swagger testbook
