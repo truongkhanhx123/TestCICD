@@ -41,7 +41,7 @@ jobs:
         with:
           dotnet-version: '8.x'
         
-      - name: Deploy to server
+      - name: Deploy to docker
         run: |
           # Your deployment script here
           # Example: Upload the publish directory to your server or deploy to Azure
