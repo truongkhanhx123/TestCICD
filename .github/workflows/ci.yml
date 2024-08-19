@@ -22,13 +22,24 @@ jobs:
           dotnet-version: '8.x'
 
       - name: Build testbook
-        run: dotnet build testbook 
+        run: dotnet build 
+        
+  test:
+    runs-on: windows-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up .NET
+        uses: actions/setup-dotnet@v3
+        with:
+          dotnet-version: '8.x'
         
       - name: Test
         run: dotnet test
-
   deploy:
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
     needs: build
     if: github.ref == 'refs/heads/main'
     
