@@ -52,7 +52,10 @@ jobs:
         with:
           dotnet-version: '8.x'
         
+      - name : Check docker-compose
+        run: docker-compose  
       - name: Deploy to Docker
         run: |
+          cd testbook
           docker-compose build
           docker-compose up
